@@ -24,4 +24,4 @@ You can customize this application by adding additional features, such as the ab
 
 ## Output demo
 
-[!alt text](Capture.GIF)
+![Alt Text](Capture.GIF)
